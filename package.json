@@ -1,6 +1,6 @@
 {
   "name": "@marekorse/drag-and-drop",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Library intended for the easy implementation of drag and drop functionality.",
   "main": "dist/index.js",
   "module": "dist/index.js",
