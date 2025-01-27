@@ -27,6 +27,7 @@
     "typescript": "^5.7.3"
   },
   "publishConfig": {
-    "@Marekorse:registry": "https://npm.pkg.github.com"
+    "@Marekorse:registry": "https://npm.pkg.github.com",
+    "access": "public"
   }
 }
