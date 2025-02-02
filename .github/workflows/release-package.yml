@@ -31,4 +31,4 @@ jobs:
       - run: npm version patch --no-git-tag-version  # version update types: v {major}.{minor}.{patch}
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{secrets.drag_and_drop}}
+          NODE_AUTH_TOKEN: ${{secrets.DRAG_AND_DROP}}
