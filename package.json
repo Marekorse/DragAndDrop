@@ -1,6 +1,6 @@
 {
   "name": "@marekorse/drag-and-drop",
-  "version": "0.1.5",
+  "version": "0.1.0",
   "description": "Library intended for the easy implementation of drag and drop functionality.",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -25,9 +25,5 @@
   "devDependencies": {
     "@types/node": "^22.10.10",
     "typescript": "^5.7.3"
-  },
-  "publishConfig": {
-    "@marekorse:registry": "https://npm.pkg.github.com",
-    "access": "public"
   }
 }
